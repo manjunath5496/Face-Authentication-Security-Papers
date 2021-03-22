@@ -10,7 +10,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(3).pdf" style="text-decoration:none;">Domain Agnostic Feature Learning for Image and Video Based Face Anti-spoofing</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(4).pdf" style="text-decoration:none;">On Disentangling Spoof Trace for Generic Face Anti-Spoofing</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(5).pdf" style="text-decoration:none;">Face Anti-Spoong via Disentangled Representation Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(5).pdf" style="text-decoration:none;">Face Anti-Spoofing via Disentangled Representation Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(6).pdf" style="text-decoration:none;">DRL-FAS: A Novel Framework Based on Deep Reinforcement Learning for Face Anti-Spoofing</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(7).pdf" style="text-decoration:none;">Camera Invariant Feature Learning for Generalized Face Anti-spoofing</a></li>
 
@@ -45,6 +45,19 @@
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(24).pdf" style="text-decoration:none;">Deep Spatial Gradient and Temporal Depth Learning for Face Anti-spoofing</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(25).pdf" style="text-decoration:none;">Searching Central Difference Convolutional Networks for Face Anti-Spoofing</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(25).pdf" style="text-decoration:none;">Searching Central Difference Convolutional Networks for Face Anti-Spoofing</a></li>  
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(26).pdf" style="text-decoration:none;">An Introduction to Face Recognition Technology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(27).pdf" style="text-decoration:none;">Face Recognition and Privacy enhancing techniques</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(28).pdf" style="text-decoration:none;">A Review of Facial Biometrics Security for Smart Devices</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Face-Authentication-Security-Papers/blob/master/fs(29).pdf" style="text-decoration:none;">Face Recognition Security System </a></li>                              
+
+   
+   
+   
+   
  </ul>
   
